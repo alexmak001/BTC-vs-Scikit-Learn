@@ -18,7 +18,7 @@ Create a function to calculate accuracy on held out data and how long it took to
 
 Datasets:
 Spotify Music Preference
-Based on song characteristics, classify if whether I like the song
+Based on song characteristics, classify if whether I like the song 
 Source: self made
 
 Credit Card Fraud Detection
