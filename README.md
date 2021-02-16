@@ -1,20 +1,30 @@
 # task-1
 
 Objectives:
+
 Find 10 datasets
+
 For each data set:
-  Create three different models using Brainome (DT, RF, NN)
-    Create 7 more models with sk learn (MLP classifier, SVM, K-Nearest Neighbor, DT)
-      DT
+
+  Create three different models using Brainome (DT, RF, NN), without and with -rank flag
+  
+    Create 7 more models with sk learn
+    
+      Decision Tree
       MLP Classifier
       Random Forest
       Extra Trees Classifier
-      SGD Classifier
+      SGD Linear Classifier
       Gaussian Naive Bayes
-      SVM  
-      
-For each model:
-Create a function to calculate accuracy on held out data and how long it took to train
+      Support Vector Machine  
+    
+
+Approach: 
+First, I would do some exploratory data analysis and then build my baseline models with sci kit learn. 
+After, I would use measurements and ranking from BTC to further improve my baseline models. 
+Attribute ranking was the most useful for improving accuracy of the baseline models. 
+Only after that would I create the model with the Brainome tool.
+
 
 Datasets:
 Spotify Music Preference
