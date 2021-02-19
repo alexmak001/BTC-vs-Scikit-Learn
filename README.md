@@ -1,4 +1,4 @@
-# task-1
+# Brainome Table Compiler vs SkLearn on real datasets
 
 Objectives:
 
